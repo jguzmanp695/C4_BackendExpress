@@ -34,7 +34,7 @@ const authService = {
             let token = await this.signToken(userData._id)
             return {
                 code: 200,
-                token:
+                token
             }
         } catch (error) {
             return error
