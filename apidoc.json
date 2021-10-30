@@ -1,0 +1,13 @@
+{
+    "name": "Backend Finapp",
+    "version": "0.0.1",
+    "description": "Documentación en línea de las endpoints del backend",
+    "apidoc": {
+        "title": "Documentación API Finapp",
+        "url": "https://mintic-c4g18.herokuapp.com/documentation",
+        "header": {
+            "title": "Resume",
+            "filename": "header.md"
+        }
+    }
+}
